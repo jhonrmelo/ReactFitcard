@@ -1,0 +1,2 @@
+.card .btn:not(:last-child) { margin-right: 15px }
+.card .btn.btn-light { background: #eee }
